@@ -1,4 +1,7 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-30 and learning git/gihub"
 echo "We are learning Branching"
+echo "I am learning DevopsEng"
+echo "we are leaning mergerconflict topic"
+echo "we are leaning mergerconflict topics"
 echo "I am learning Devops"
